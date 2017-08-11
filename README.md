@@ -1,6 +1,6 @@
-# CFNT2015-USTrackRe
+# CFNT2015-ReplicationCodes
 
-[![License](https://img.shields.io/badge/license-BSD%203--clause-green.svg)](https://github.com/vcurdia/CFNT2015-USTrackRe/blob/master/LICENSE)
+[![License](https://img.shields.io/badge/license-BSD%203--clause-green.svg)](https://github.com/vcurdia/CFNT2015-ReplicationCodes/blob/master/LICENSE)
 
 These codes reproduce the results in:
 
@@ -8,10 +8,10 @@ These codes reproduce the results in:
 [Has U.S. monetary policy tracked the efficient interest rate?](http://www.sciencedirect.com/science/article/pii/S0304393214001457)  
 *Journal of Monetary Economics*, 70, pp. 72-83.
 
-[Technical Appendix](https://github.com/vcurdia/CFNT2015-USTrackRe/blob/master/CFNT2015_Appendix.pdf)
+[Technical Appendix](https://github.com/vcurdia/CFNT2015-ReplicationCodes/blob/master/CFNT2015_Appendix.pdf)
 
 These replication codes are available online at:  
-https://github.com/vcurdia/CFNT2015-USTrackRe
+https://github.com/vcurdia/CFNT2015-ReplicationCodes
 
 # Requirements
 
